@@ -1,0 +1,11 @@
+baseURL = "https://seanwebtesting.xyz"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Sean Webtesting" 
+    description = ""
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "Jan 30, 2024" 
+    background = ""
